@@ -19,3 +19,4 @@ Part 2: Using the predicted sentiments to analyse the bitcoin price change.
 
 ## Deliverables
 - GCP-modelling.ipynb
+- Beatcoin_project.pdf
